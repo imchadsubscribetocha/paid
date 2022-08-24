@@ -1,5 +1,5 @@
 local Toggled = false
-local KeyCode = 'z'
+local KeyCode = 'c'
 
 
 function AA()
